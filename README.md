@@ -94,7 +94,7 @@ Data Breakdown: Dataset describes traffic crash parameters, including date of cr
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if
+2. Raw Data is being kept https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if. when downloaded, place the csv file in the "data" folder.
     
-3. Rd2.ipynb will contain data cleaning, findings, and visuals. 
+3. Traffic_crash_1.ipynb will contain the original data cleaning, findings, and visuals, while Traffic_crash_2 contains an updated version of the modelling portion of this project. 
 4. mytree.png will contain visual of DecisionTreeClassifier split parameters.
